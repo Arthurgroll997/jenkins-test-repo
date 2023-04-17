@@ -1,1 +1,1 @@
-print("Hello, World! Testing Jenkins...")
+print("Hello, World!")
